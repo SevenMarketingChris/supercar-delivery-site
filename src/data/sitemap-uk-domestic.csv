@@ -1,0 +1,63 @@
+Page Type,Region,County/Area,City,URL Slug,Page Title (H1),Priority,Notes
+City,England,,London,/supercar-delivery-service-to-london,Supercar Delivery Service to London,High,"Capital city - Mayfair, Knightsbridge, Chelsea"
+City,England,,Manchester,/supercar-delivery-service-to-manchester,Supercar Delivery Service to Manchester,High,Major northern hub
+City,England,,Birmingham,/supercar-delivery-service-to-birmingham,Supercar Delivery Service to Birmingham,High,Second largest city
+City,England,,Leeds,/supercar-delivery-service-to-leeds,Supercar Delivery Service to Leeds,Medium,
+City,England,,Liverpool,/supercar-delivery-service-to-liverpool,Supercar Delivery Service to Liverpool,Medium,
+City,England,,Newcastle,/supercar-delivery-service-to-newcastle,Supercar Delivery Service to Newcastle,Medium,
+City,England,,Sheffield,/supercar-delivery-service-to-sheffield,Supercar Delivery Service to Sheffield,Medium,
+City,England,,Bristol,/supercar-delivery-service-to-bristol,Supercar Delivery Service to Bristol,Medium,
+City,England,,Nottingham,/supercar-delivery-service-to-nottingham,Supercar Delivery Service to Nottingham,Medium,
+City,England,,Leicester,/supercar-delivery-service-to-leicester,Supercar Delivery Service to Leicester,Low,
+City,England,,Coventry,/supercar-delivery-service-to-coventry,Supercar Delivery Service to Coventry,Low,
+City,England,,Brighton,/supercar-delivery-service-to-brighton,Supercar Delivery Service to Brighton,Medium,Affluent south coast
+City,England,,Southampton,/supercar-delivery-service-to-southampton,Supercar Delivery Service to Southampton,Medium,Major port city
+City,England,,Portsmouth,/supercar-delivery-service-to-portsmouth,Supercar Delivery Service to Portsmouth,Low,
+City,England,,Plymouth,/supercar-delivery-service-to-plymouth,Supercar Delivery Service to Plymouth,Low,
+City,England,,Exeter,/supercar-delivery-service-to-exeter,Supercar Delivery Service to Exeter,Low,
+City,England,,Bath,/supercar-delivery-service-to-bath,Supercar Delivery Service to Bath,Medium,Affluent heritage city
+City,England,,Oxford,/supercar-delivery-service-to-oxford,Supercar Delivery Service to Oxford,Medium,Affluent university city
+City,England,,Cambridge,/supercar-delivery-service-to-cambridge,Supercar Delivery Service to Cambridge,Medium,Affluent university city
+City,England,,Norwich,/supercar-delivery-service-to-norwich,Supercar Delivery Service to Norwich,Low,
+City,England,,York,/supercar-delivery-service-to-york,Supercar Delivery Service to York,Low,
+City,England,,Chester,/supercar-delivery-service-to-chester,Supercar Delivery Service to Chester,Low,Cheshire wealth belt
+City,England,,Cheltenham,/supercar-delivery-service-to-cheltenham,Supercar Delivery Service to Cheltenham,Medium,Cotswolds affluence
+City,England,,Windsor,/supercar-delivery-service-to-windsor,Supercar Delivery Service to Windsor,Medium,"Royal borough, high wealth"
+City,England,,Guildford,/supercar-delivery-service-to-guildford,Supercar Delivery Service to Guildford,Medium,Surrey stockbroker belt
+City,England,,Reading,/supercar-delivery-service-to-reading,Supercar Delivery Service to Reading,Low,
+City,England,,Milton Keynes,/supercar-delivery-service-to-milton-keynes,Supercar Delivery Service to Milton Keynes,Low,
+City,England,,Northampton,/supercar-delivery-service-to-northampton,Supercar Delivery Service to Northampton,Low,
+City,England,,Derby,/supercar-delivery-service-to-derby,Supercar Delivery Service to Derby,Low,
+City,England,,Stoke-on-Trent,/supercar-delivery-service-to-stoke-on-trent,Supercar Delivery Service to Stoke-on-Trent,Low,
+City,England,,Wolverhampton,/supercar-delivery-service-to-wolverhampton,Supercar Delivery Service to Wolverhampton,Low,
+City,England,,Sunderland,/supercar-delivery-service-to-sunderland,Supercar Delivery Service to Sunderland,Low,
+City,England,,Bournemouth,/supercar-delivery-service-to-bournemouth,Supercar Delivery Service to Bournemouth,Low,South coast
+City,England,,Blackpool,/supercar-delivery-service-to-blackpool,Supercar Delivery Service to Blackpool,Low,
+City,England,,Middlesbrough,/supercar-delivery-service-to-middlesbrough,Supercar Delivery Service to Middlesbrough,Low,
+City,England,,Bolton,/supercar-delivery-service-to-bolton,Supercar Delivery Service to Bolton,Low,
+City,England,,Ipswich,/supercar-delivery-service-to-ipswich,Supercar Delivery Service to Ipswich,Low,
+City,England,,Peterborough,/supercar-delivery-service-to-peterborough,Supercar Delivery Service to Peterborough,Low,
+City,England,,Colchester,/supercar-delivery-service-to-colchester,Supercar Delivery Service to Colchester,Low,
+City,England,,Harrogate,/supercar-delivery-service-to-harrogate,Supercar Delivery Service to Harrogate,Medium,Affluent spa town
+County,England,Cheshire,,/supercar-delivery-service-to-cheshire,Supercar Delivery Service to Cheshire,High,"Alderley Edge, Wilmslow - supercar hotspot"
+County,England,Surrey,,/supercar-delivery-service-to-surrey,Supercar Delivery Service to Surrey,High,"Weybridge, Esher - high wealth area"
+County,England,Berkshire,,/supercar-delivery-service-to-berkshire,Supercar Delivery Service to Berkshire,Medium,"Ascot, Virginia Water"
+County,England,Hertfordshire,,/supercar-delivery-service-to-hertfordshire,Supercar Delivery Service to Hertfordshire,Medium,North London wealth belt
+County,England,Essex,,/supercar-delivery-service-to-essex,Supercar Delivery Service to Essex,Medium,Supercar culture stronghold
+County,England,Kent,,/supercar-delivery-service-to-kent,Supercar Delivery Service to Kent,Medium,Garden of England
+County,England,Hampshire,,/supercar-delivery-service-to-hampshire,Supercar Delivery Service to Hampshire,Medium,
+County,England,Buckinghamshire,,/supercar-delivery-service-to-buckinghamshire,Supercar Delivery Service to Buckinghamshire,Medium,"Beaconsfield, Gerrards Cross"
+County,England,Cotswolds,,/supercar-delivery-service-to-cotswolds,Supercar Delivery Service to Cotswolds,Medium,Rural affluence
+City,Scotland,,Edinburgh,/supercar-delivery-service-to-edinburgh,Supercar Delivery Service to Edinburgh,Medium,Scottish capital
+City,Scotland,,Glasgow,/supercar-delivery-service-to-glasgow,Supercar Delivery Service to Glasgow,Medium,Largest Scottish city
+City,Scotland,,Aberdeen,/supercar-delivery-service-to-aberdeen,Supercar Delivery Service to Aberdeen,Medium,Oil industry wealth
+City,Scotland,,Dundee,/supercar-delivery-service-to-dundee,Supercar Delivery Service to Dundee,Low,
+City,Scotland,,Inverness,/supercar-delivery-service-to-inverness,Supercar Delivery Service to Inverness,Low,
+City,Wales,,Cardiff,/supercar-delivery-service-to-cardiff,Supercar Delivery Service to Cardiff,Medium,Welsh capital
+City,Wales,,Swansea,/supercar-delivery-service-to-swansea,Supercar Delivery Service to Swansea,Low,
+City,Wales,,Newport,/supercar-delivery-service-to-newport,Supercar Delivery Service to Newport,Low,
+City,Northern Ireland,,Belfast,/supercar-delivery-service-to-belfast,Supercar Delivery Service to Belfast,Medium,NI capital
+City,Northern Ireland,,Londonderry,/supercar-delivery-service-to-londonderry,Supercar Delivery Service to Londonderry,Low,
+City,Channel Islands,,Jersey,/supercar-delivery-service-to-jersey,Supercar Delivery Service to Jersey,High,Tax haven - high wealth per capita
+City,Channel Islands,,Guernsey,/supercar-delivery-service-to-guernsey,Supercar Delivery Service to Guernsey,Medium,Tax haven
+City,Crown Dependencies,,Isle of Man,/supercar-delivery-service-to-isle-of-man,Supercar Delivery Service to Isle of Man,Medium,TT races - car culture

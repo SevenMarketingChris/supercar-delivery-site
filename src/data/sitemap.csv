@@ -1,0 +1,300 @@
+Page Type,Continent,Country,City/State,URL Slug,Page Title (H1),Priority,Notes
+Continent,Europe,,,/ship-car-to-europe,Ship Car to Europe,High,Hub page for all European countries
+Country,Europe,United Kingdom,,/ship-car-to-united-kingdom,Ship Car to United Kingdom,High,Major supercar market
+City,Europe,United Kingdom,London,/ship-car-to-london,Ship Car to London,High,"Top-tier market - Mayfair, Knightsbridge"
+City,Europe,United Kingdom,Manchester,/ship-car-to-manchester,Ship Car to Manchester,Medium,Growing luxury market
+City,Europe,United Kingdom,Birmingham,/ship-car-to-birmingham,Ship Car to Birmingham,Medium,
+City,Europe,United Kingdom,Edinburgh,/ship-car-to-edinburgh,Ship Car to Edinburgh,Medium,
+City,Europe,United Kingdom,Glasgow,/ship-car-to-glasgow,Ship Car to Glasgow,Low,
+City,Europe,United Kingdom,Liverpool,/ship-car-to-liverpool,Ship Car to Liverpool,Low,
+City,Europe,United Kingdom,Leeds,/ship-car-to-leeds,Ship Car to Leeds,Low,
+City,Europe,United Kingdom,Bristol,/ship-car-to-bristol,Ship Car to Bristol,Low,
+City,Europe,United Kingdom,Cardiff,/ship-car-to-cardiff,Ship Car to Cardiff,Low,
+City,Europe,United Kingdom,Belfast,/ship-car-to-belfast,Ship Car to Belfast,Low,
+Country,Europe,France,,/ship-car-to-france,Ship Car to France,High,
+City,Europe,France,Paris,/ship-car-to-paris,Ship Car to Paris,High,Major luxury hub
+City,Europe,France,Nice,/ship-car-to-nice,Ship Car to Nice,High,French Riviera - key supercar destination
+City,Europe,France,Cannes,/ship-car-to-cannes,Ship Car to Cannes,High,"Film festival, yacht season"
+City,Europe,France,Lyon,/ship-car-to-lyon,Ship Car to Lyon,Medium,
+City,Europe,France,Marseille,/ship-car-to-marseille,Ship Car to Marseille,Medium,
+City,Europe,France,Bordeaux,/ship-car-to-bordeaux,Ship Car to Bordeaux,Low,
+City,Europe,France,Toulouse,/ship-car-to-toulouse,Ship Car to Toulouse,Low,
+City,Europe,France,Strasbourg,/ship-car-to-strasbourg,Ship Car to Strasbourg,Low,
+City,Europe,France,Saint-Tropez,/ship-car-to-saint-tropez,Ship Car to Saint-Tropez,Medium,Seasonal supercar hotspot
+Country,Europe,Germany,,/ship-car-to-germany,Ship Car to Germany,High,Automotive heartland
+City,Europe,Germany,Munich,/ship-car-to-munich,Ship Car to Munich,High,"BMW HQ, major luxury market"
+City,Europe,Germany,Berlin,/ship-car-to-berlin,Ship Car to Berlin,High,
+City,Europe,Germany,Frankfurt,/ship-car-to-frankfurt,Ship Car to Frankfurt,High,Financial hub
+City,Europe,Germany,Hamburg,/ship-car-to-hamburg,Ship Car to Hamburg,Medium,Major port city
+City,Europe,Germany,Stuttgart,/ship-car-to-stuttgart,Ship Car to Stuttgart,Medium,Porsche & Mercedes HQ
+City,Europe,Germany,Düsseldorf,/ship-car-to-dusseldorf,Ship Car to Düsseldorf,Medium,
+City,Europe,Germany,Cologne,/ship-car-to-cologne,Ship Car to Cologne,Low,
+Country,Europe,Italy,,/ship-car-to-italy,Ship Car to Italy,High,"Ferrari, Lamborghini homeland"
+City,Europe,Italy,Rome,/ship-car-to-rome,Ship Car to Rome,High,
+City,Europe,Italy,Milan,/ship-car-to-milan,Ship Car to Milan,High,Fashion & finance capital
+City,Europe,Italy,Florence,/ship-car-to-florence,Ship Car to Florence,Medium,
+City,Europe,Italy,Naples,/ship-car-to-naples,Ship Car to Naples,Medium,
+City,Europe,Italy,Turin,/ship-car-to-turin,Ship Car to Turin,Medium,Fiat/Stellantis HQ
+City,Europe,Italy,Venice,/ship-car-to-venice,Ship Car to Venice,Low,
+City,Europe,Italy,Bologna,/ship-car-to-bologna,Ship Car to Bologna,Medium,"Lamborghini, Ducati, Maserati nearby"
+City,Europe,Italy,Modena,/ship-car-to-modena,Ship Car to Modena,Medium,"Ferrari, Maserati, Pagani HQ"
+Country,Europe,Spain,,/ship-car-to-spain,Ship Car to Spain,High,
+City,Europe,Spain,Madrid,/ship-car-to-madrid,Ship Car to Madrid,High,
+City,Europe,Spain,Barcelona,/ship-car-to-barcelona,Ship Car to Barcelona,High,
+City,Europe,Spain,Marbella,/ship-car-to-marbella,Ship Car to Marbella,High,Major supercar hotspot - Puerto Banús
+City,Europe,Spain,Valencia,/ship-car-to-valencia,Ship Car to Valencia,Medium,
+City,Europe,Spain,Seville,/ship-car-to-seville,Ship Car to Seville,Low,
+City,Europe,Spain,Malaga,/ship-car-to-malaga,Ship Car to Malaga,Medium,Costa del Sol gateway
+City,Europe,Spain,Ibiza,/ship-car-to-ibiza,Ship Car to Ibiza,Medium,Seasonal luxury demand
+City,Europe,Spain,Palma de Mallorca,/ship-car-to-palma-de-mallorca,Ship Car to Palma de Mallorca,Medium,
+Country,Europe,Portugal,,/ship-car-to-portugal,Ship Car to Portugal,Medium,
+City,Europe,Portugal,Lisbon,/ship-car-to-lisbon,Ship Car to Lisbon,Medium,
+City,Europe,Portugal,Porto,/ship-car-to-porto,Ship Car to Porto,Low,
+City,Europe,Portugal,Algarve,/ship-car-to-algarve,Ship Car to Algarve,Medium,Luxury resort region
+Country,Europe,Netherlands,,/ship-car-to-netherlands,Ship Car to Netherlands,Medium,
+City,Europe,Netherlands,Amsterdam,/ship-car-to-amsterdam,Ship Car to Amsterdam,High,
+City,Europe,Netherlands,Rotterdam,/ship-car-to-rotterdam,Ship Car to Rotterdam,Medium,Major European port
+City,Europe,Netherlands,The Hague,/ship-car-to-the-hague,Ship Car to The Hague,Low,
+Country,Europe,Belgium,,/ship-car-to-belgium,Ship Car to Belgium,Medium,
+City,Europe,Belgium,Brussels,/ship-car-to-brussels,Ship Car to Brussels,Medium,
+City,Europe,Belgium,Antwerp,/ship-car-to-antwerp,Ship Car to Antwerp,Low,Diamond district wealth
+Country,Europe,Switzerland,,/ship-car-to-switzerland,Ship Car to Switzerland,High,Ultra-high-net-worth market
+City,Europe,Switzerland,Zurich,/ship-car-to-zurich,Ship Car to Zurich,High,Financial capital
+City,Europe,Switzerland,Geneva,/ship-car-to-geneva,Ship Car to Geneva,High,"Watch industry, banking"
+City,Europe,Switzerland,Basel,/ship-car-to-basel,Ship Car to Basel,Medium,
+City,Europe,Switzerland,Bern,/ship-car-to-bern,Ship Car to Bern,Low,
+City,Europe,Switzerland,Lugano,/ship-car-to-lugano,Ship Car to Lugano,Medium,Italian-Swiss luxury hub
+Country,Europe,Austria,,/ship-car-to-austria,Ship Car to Austria,Medium,
+City,Europe,Austria,Vienna,/ship-car-to-vienna,Ship Car to Vienna,Medium,
+City,Europe,Austria,Salzburg,/ship-car-to-salzburg,Ship Car to Salzburg,Low,
+City,Europe,Austria,Innsbruck,/ship-car-to-innsbruck,Ship Car to Innsbruck,Low,
+Country,Europe,Monaco,,/ship-car-to-monaco,Ship Car to Monaco,High,Global supercar capital - Grand Prix
+Country,Europe,Sweden,,/ship-car-to-sweden,Ship Car to Sweden,Medium,
+City,Europe,Sweden,Stockholm,/ship-car-to-stockholm,Ship Car to Stockholm,Medium,
+City,Europe,Sweden,Gothenburg,/ship-car-to-gothenburg,Ship Car to Gothenburg,Low,
+City,Europe,Sweden,Malmö,/ship-car-to-malmo,Ship Car to Malmö,Low,
+Country,Europe,Norway,,/ship-car-to-norway,Ship Car to Norway,Medium,High wealth per capita
+City,Europe,Norway,Oslo,/ship-car-to-oslo,Ship Car to Oslo,Medium,
+City,Europe,Norway,Bergen,/ship-car-to-bergen,Ship Car to Bergen,Low,
+City,Europe,Norway,Stavanger,/ship-car-to-stavanger,Ship Car to Stavanger,Low,Oil industry wealth
+Country,Europe,Denmark,,/ship-car-to-denmark,Ship Car to Denmark,Medium,
+City,Europe,Denmark,Copenhagen,/ship-car-to-copenhagen,Ship Car to Copenhagen,Medium,
+Country,Europe,Finland,,/ship-car-to-finland,Ship Car to Finland,Low,
+City,Europe,Finland,Helsinki,/ship-car-to-helsinki,Ship Car to Helsinki,Low,
+Country,Europe,Ireland,,/ship-car-to-ireland,Ship Car to Ireland,Medium,
+City,Europe,Ireland,Dublin,/ship-car-to-dublin,Ship Car to Dublin,Medium,Tech wealth hub
+City,Europe,Ireland,Cork,/ship-car-to-cork,Ship Car to Cork,Low,
+Country,Europe,Greece,,/ship-car-to-greece,Ship Car to Greece,Medium,
+City,Europe,Greece,Athens,/ship-car-to-athens,Ship Car to Athens,Medium,
+City,Europe,Greece,Thessaloniki,/ship-car-to-thessaloniki,Ship Car to Thessaloniki,Low,
+City,Europe,Greece,Mykonos,/ship-car-to-mykonos,Ship Car to Mykonos,Medium,Seasonal luxury island
+City,Europe,Greece,Santorini,/ship-car-to-santorini,Ship Car to Santorini,Low,
+Country,Europe,Turkey,,/ship-car-to-turkey,Ship Car to Turkey,Medium,
+City,Europe,Turkey,Istanbul,/ship-car-to-istanbul,Ship Car to Istanbul,High,Major luxury market
+City,Europe,Turkey,Ankara,/ship-car-to-ankara,Ship Car to Ankara,Low,
+City,Europe,Turkey,Antalya,/ship-car-to-antalya,Ship Car to Antalya,Low,
+City,Europe,Turkey,Bodrum,/ship-car-to-bodrum,Ship Car to Bodrum,Medium,Turkish Riviera
+Country,Europe,Poland,,/ship-car-to-poland,Ship Car to Poland,Low,
+City,Europe,Poland,Warsaw,/ship-car-to-warsaw,Ship Car to Warsaw,Low,
+City,Europe,Poland,Krakow,/ship-car-to-krakow,Ship Car to Krakow,Low,
+Country,Europe,Czech Republic,,/ship-car-to-czech-republic,Ship Car to Czech Republic,Low,
+City,Europe,Czech Republic,Prague,/ship-car-to-prague,Ship Car to Prague,Medium,
+Country,Europe,Hungary,,/ship-car-to-hungary,Ship Car to Hungary,Low,
+City,Europe,Hungary,Budapest,/ship-car-to-budapest,Ship Car to Budapest,Low,
+Country,Europe,Croatia,,/ship-car-to-croatia,Ship Car to Croatia,Low,
+City,Europe,Croatia,Zagreb,/ship-car-to-zagreb,Ship Car to Zagreb,Low,
+City,Europe,Croatia,Dubrovnik,/ship-car-to-dubrovnik,Ship Car to Dubrovnik,Medium,Luxury tourism hotspot
+City,Europe,Croatia,Split,/ship-car-to-split,Ship Car to Split,Low,
+Country,Europe,Luxembourg,,/ship-car-to-luxembourg,Ship Car to Luxembourg,Medium,Highest GDP per capita
+Country,Europe,Malta,,/ship-car-to-malta,Ship Car to Malta,Low,
+City,Europe,Malta,Valletta,/ship-car-to-valletta,Ship Car to Valletta,Low,
+Country,Europe,Cyprus,,/ship-car-to-cyprus,Ship Car to Cyprus,Low,
+City,Europe,Cyprus,Nicosia,/ship-car-to-nicosia,Ship Car to Nicosia,Low,
+City,Europe,Cyprus,Limassol,/ship-car-to-limassol,Ship Car to Limassol,Medium,Russian/expat wealth hub
+Country,Europe,Iceland,,/ship-car-to-iceland,Ship Car to Iceland,Low,
+City,Europe,Iceland,Reykjavik,/ship-car-to-reykjavik,Ship Car to Reykjavik,Low,
+Country,Europe,Romania,,/ship-car-to-romania,Ship Car to Romania,Low,
+City,Europe,Romania,Bucharest,/ship-car-to-bucharest,Ship Car to Bucharest,Low,
+Country,Europe,Bulgaria,,/ship-car-to-bulgaria,Ship Car to Bulgaria,Low,
+City,Europe,Bulgaria,Sofia,/ship-car-to-sofia,Ship Car to Sofia,Low,
+Country,Europe,Slovenia,,/ship-car-to-slovenia,Ship Car to Slovenia,Low,
+City,Europe,Slovenia,Ljubljana,/ship-car-to-ljubljana,Ship Car to Ljubljana,Low,
+Country,Europe,Slovakia,,/ship-car-to-slovakia,Ship Car to Slovakia,Low,
+City,Europe,Slovakia,Bratislava,/ship-car-to-bratislava,Ship Car to Bratislava,Low,
+Country,Europe,Estonia,,/ship-car-to-estonia,Ship Car to Estonia,Low,
+City,Europe,Estonia,Tallinn,/ship-car-to-tallinn,Ship Car to Tallinn,Low,
+Country,Europe,Latvia,,/ship-car-to-latvia,Ship Car to Latvia,Low,
+City,Europe,Latvia,Riga,/ship-car-to-riga,Ship Car to Riga,Low,
+Country,Europe,Lithuania,,/ship-car-to-lithuania,Ship Car to Lithuania,Low,
+City,Europe,Lithuania,Vilnius,/ship-car-to-vilnius,Ship Car to Vilnius,Low,
+Country,Europe,Montenegro,,/ship-car-to-montenegro,Ship Car to Montenegro,Low,
+City,Europe,Montenegro,Tivat,/ship-car-to-tivat,Ship Car to Tivat,Medium,Porto Montenegro superyacht marina
+City,Europe,Montenegro,Podgorica,/ship-car-to-podgorica,Ship Car to Podgorica,Low,
+Country,Europe,Serbia,,/ship-car-to-serbia,Ship Car to Serbia,Low,
+City,Europe,Serbia,Belgrade,/ship-car-to-belgrade,Ship Car to Belgrade,Low,
+Continent,North America,,,/ship-car-to-north-america,Ship Car to North America,High,Hub page
+Country,North America,United States,,/ship-car-to-united-states,Ship Car to United States,High,Largest supercar market globally
+City,North America,United States,New York,/ship-car-to-new-york,Ship Car to New York,High,
+City,North America,United States,Los Angeles,/ship-car-to-los-angeles,Ship Car to Los Angeles,High,"Hollywood, Beverly Hills"
+City,North America,United States,Miami,/ship-car-to-miami,Ship Car to Miami,High,Major supercar culture
+City,North America,United States,Chicago,/ship-car-to-chicago,Ship Car to Chicago,High,
+City,North America,United States,Houston,/ship-car-to-houston,Ship Car to Houston,High,Oil wealth
+City,North America,United States,Dallas,/ship-car-to-dallas,Ship Car to Dallas,High,
+City,North America,United States,San Francisco,/ship-car-to-san-francisco,Ship Car to San Francisco,High,Tech wealth
+City,North America,United States,Las Vegas,/ship-car-to-las-vegas,Ship Car to Las Vegas,High,Exotic car culture
+City,North America,United States,San Diego,/ship-car-to-san-diego,Ship Car to San Diego,Medium,
+City,North America,United States,Seattle,/ship-car-to-seattle,Ship Car to Seattle,Medium,"Tech wealth - Amazon, Microsoft"
+City,North America,United States,Boston,/ship-car-to-boston,Ship Car to Boston,Medium,
+City,North America,United States,Atlanta,/ship-car-to-atlanta,Ship Car to Atlanta,Medium,
+City,North America,United States,Phoenix,/ship-car-to-phoenix,Ship Car to Phoenix,Medium,
+City,North America,United States,Scottsdale,/ship-car-to-scottsdale,Ship Car to Scottsdale,High,"Barrett-Jackson, car collector capital"
+City,North America,United States,Denver,/ship-car-to-denver,Ship Car to Denver,Medium,
+City,North America,United States,Detroit,/ship-car-to-detroit,Ship Car to Detroit,Medium,Motor City
+City,North America,United States,Philadelphia,/ship-car-to-philadelphia,Ship Car to Philadelphia,Medium,
+City,North America,United States,Washington DC,/ship-car-to-washington-dc,Ship Car to Washington DC,Medium,
+City,North America,United States,Austin,/ship-car-to-austin,Ship Car to Austin,Medium,Tech growth hub
+City,North America,United States,Nashville,/ship-car-to-nashville,Ship Car to Nashville,Medium,
+City,North America,United States,Charlotte,/ship-car-to-charlotte,Ship Car to Charlotte,Low,
+City,North America,United States,Beverly Hills,/ship-car-to-beverly-hills,Ship Car to Beverly Hills,High,Ultra-luxury enclave
+City,North America,United States,Palm Beach,/ship-car-to-palm-beach,Ship Car to Palm Beach,High,Wealth corridor
+City,North America,United States,The Hamptons,/ship-car-to-the-hamptons,Ship Car to The Hamptons,Medium,Seasonal luxury market
+City,North America,United States,Aspen,/ship-car-to-aspen,Ship Car to Aspen,Medium,Seasonal luxury resort
+City,North America,United States,San Jose,/ship-car-to-san-jose,Ship Car to San Jose,Medium,Silicon Valley
+City,North America,United States,Palo Alto,/ship-car-to-palo-alto,Ship Car to Palo Alto,Medium,Silicon Valley core
+City,North America,United States,Orlando,/ship-car-to-orlando,Ship Car to Orlando,Low,
+City,North America,United States,Tampa,/ship-car-to-tampa,Ship Car to Tampa,Low,
+City,North America,United States,Fort Lauderdale,/ship-car-to-fort-lauderdale,Ship Car to Fort Lauderdale,Medium,Yacht/supercar crossover
+City,North America,United States,Honolulu,/ship-car-to-honolulu,Ship Car to Honolulu,Medium,Hawaii luxury market
+Country,North America,Canada,,/ship-car-to-canada,Ship Car to Canada,High,
+City,North America,Canada,Toronto,/ship-car-to-toronto,Ship Car to Toronto,High,Largest Canadian market
+City,North America,Canada,Vancouver,/ship-car-to-vancouver,Ship Car to Vancouver,High,"Pacific gateway, high wealth"
+City,North America,Canada,Montreal,/ship-car-to-montreal,Ship Car to Montreal,Medium,Grand Prix host city
+City,North America,Canada,Calgary,/ship-car-to-calgary,Ship Car to Calgary,Medium,Oil wealth
+City,North America,Canada,Ottawa,/ship-car-to-ottawa,Ship Car to Ottawa,Low,
+City,North America,Canada,Edmonton,/ship-car-to-edmonton,Ship Car to Edmonton,Low,
+Country,North America,Mexico,,/ship-car-to-mexico,Ship Car to Mexico,Medium,
+City,North America,Mexico,Mexico City,/ship-car-to-mexico-city,Ship Car to Mexico City,High,Largest city in North America
+City,North America,Mexico,Cancun,/ship-car-to-cancun,Ship Car to Cancun,Medium,Resort luxury
+City,North America,Mexico,Guadalajara,/ship-car-to-guadalajara,Ship Car to Guadalajara,Low,
+City,North America,Mexico,Monterrey,/ship-car-to-monterrey,Ship Car to Monterrey,Medium,Industrial wealth hub
+City,North America,Mexico,Cabo San Lucas,/ship-car-to-cabo-san-lucas,Ship Car to Cabo San Lucas,Medium,Luxury resort destination
+City,North America,Mexico,Puerto Vallarta,/ship-car-to-puerto-vallarta,Ship Car to Puerto Vallarta,Low,
+Country,North America,Bahamas,,/ship-car-to-bahamas,Ship Car to Bahamas,Medium,Island luxury market
+City,North America,Bahamas,Nassau,/ship-car-to-nassau,Ship Car to Nassau,Medium,
+Country,North America,Cayman Islands,,/ship-car-to-cayman-islands,Ship Car to Cayman Islands,Medium,Financial hub
+City,North America,Cayman Islands,George Town,/ship-car-to-george-town-cayman,Ship Car to George Town,Medium,
+Country,North America,Barbados,,/ship-car-to-barbados,Ship Car to Barbados,Low,
+City,North America,Barbados,Bridgetown,/ship-car-to-bridgetown,Ship Car to Bridgetown,Low,
+Country,North America,Jamaica,,/ship-car-to-jamaica,Ship Car to Jamaica,Low,
+City,North America,Jamaica,Kingston,/ship-car-to-kingston,Ship Car to Kingston,Low,
+City,North America,Jamaica,Montego Bay,/ship-car-to-montego-bay,Ship Car to Montego Bay,Low,
+Country,North America,Trinidad and Tobago,,/ship-car-to-trinidad-and-tobago,Ship Car to Trinidad and Tobago,Low,
+City,North America,Trinidad and Tobago,Port of Spain,/ship-car-to-port-of-spain,Ship Car to Port of Spain,Low,
+Country,North America,Puerto Rico,,/ship-car-to-puerto-rico,Ship Car to Puerto Rico,Low,US territory
+City,North America,Puerto Rico,San Juan,/ship-car-to-san-juan,Ship Car to San Juan,Low,
+Country,North America,Dominican Republic,,/ship-car-to-dominican-republic,Ship Car to Dominican Republic,Low,
+City,North America,Dominican Republic,Santo Domingo,/ship-car-to-santo-domingo,Ship Car to Santo Domingo,Low,
+City,North America,Dominican Republic,Punta Cana,/ship-car-to-punta-cana,Ship Car to Punta Cana,Low,Resort destination
+Continent,South America,,,/ship-car-to-south-america,Ship Car to South America,Medium,Hub page
+Country,South America,Brazil,,/ship-car-to-brazil,Ship Car to Brazil,High,Largest South American market
+City,South America,Brazil,São Paulo,/ship-car-to-sao-paulo,Ship Car to São Paulo,High,Financial capital of SA
+City,South America,Brazil,Rio de Janeiro,/ship-car-to-rio-de-janeiro,Ship Car to Rio de Janeiro,High,
+City,South America,Brazil,Brasilia,/ship-car-to-brasilia,Ship Car to Brasilia,Low,
+City,South America,Brazil,Belo Horizonte,/ship-car-to-belo-horizonte,Ship Car to Belo Horizonte,Low,
+Country,South America,Argentina,,/ship-car-to-argentina,Ship Car to Argentina,Medium,
+City,South America,Argentina,Buenos Aires,/ship-car-to-buenos-aires,Ship Car to Buenos Aires,Medium,
+City,South America,Argentina,Mendoza,/ship-car-to-mendoza,Ship Car to Mendoza,Low,
+Country,South America,Chile,,/ship-car-to-chile,Ship Car to Chile,Medium,
+City,South America,Chile,Santiago,/ship-car-to-santiago,Ship Car to Santiago,Medium,
+Country,South America,Colombia,,/ship-car-to-colombia,Ship Car to Colombia,Medium,
+City,South America,Colombia,Bogota,/ship-car-to-bogota,Ship Car to Bogota,Medium,
+City,South America,Colombia,Medellin,/ship-car-to-medellin,Ship Car to Medellin,Low,
+City,South America,Colombia,Cartagena,/ship-car-to-cartagena,Ship Car to Cartagena,Medium,Luxury coastal city
+Country,South America,Peru,,/ship-car-to-peru,Ship Car to Peru,Low,
+City,South America,Peru,Lima,/ship-car-to-lima,Ship Car to Lima,Low,
+Country,South America,Uruguay,,/ship-car-to-uruguay,Ship Car to Uruguay,Low,
+City,South America,Uruguay,Montevideo,/ship-car-to-montevideo,Ship Car to Montevideo,Low,
+City,South America,Uruguay,Punta del Este,/ship-car-to-punta-del-este,Ship Car to Punta del Este,Medium,South American Monaco
+Country,South America,Ecuador,,/ship-car-to-ecuador,Ship Car to Ecuador,Low,
+City,South America,Ecuador,Quito,/ship-car-to-quito,Ship Car to Quito,Low,
+City,South America,Ecuador,Guayaquil,/ship-car-to-guayaquil,Ship Car to Guayaquil,Low,
+Country,South America,Paraguay,,/ship-car-to-paraguay,Ship Car to Paraguay,Low,
+City,South America,Paraguay,Asuncion,/ship-car-to-asuncion,Ship Car to Asuncion,Low,
+Continent,Asia,,,/ship-car-to-asia,Ship Car to Asia,High,Hub page
+Country,Asia,United Arab Emirates,,/ship-car-to-uae,Ship Car to UAE,High,Top global supercar market
+City,Asia,United Arab Emirates,Dubai,/ship-car-to-dubai,Ship Car to Dubai,High,Global supercar capital
+City,Asia,United Arab Emirates,Abu Dhabi,/ship-car-to-abu-dhabi,Ship Car to Abu Dhabi,High,"F1, Yas Island"
+City,Asia,United Arab Emirates,Sharjah,/ship-car-to-sharjah,Ship Car to Sharjah,Low,
+Country,Asia,Saudi Arabia,,/ship-car-to-saudi-arabia,Ship Car to Saudi Arabia,High,Massive growth market - Vision 2030
+City,Asia,Saudi Arabia,Riyadh,/ship-car-to-riyadh,Ship Car to Riyadh,High,"Capital, major wealth hub"
+City,Asia,Saudi Arabia,Jeddah,/ship-car-to-jeddah,Ship Car to Jeddah,High,F1 street circuit
+City,Asia,Saudi Arabia,Dammam,/ship-car-to-dammam,Ship Car to Dammam,Medium,Eastern Province oil wealth
+City,Asia,Saudi Arabia,NEOM,/ship-car-to-neom,Ship Car to NEOM,Low,Future megaproject
+Country,Asia,Qatar,,/ship-car-to-qatar,Ship Car to Qatar,High,Highest GDP per capita
+City,Asia,Qatar,Doha,/ship-car-to-doha,Ship Car to Doha,High,
+Country,Asia,Bahrain,,/ship-car-to-bahrain,Ship Car to Bahrain,Medium,F1 host nation
+City,Asia,Bahrain,Manama,/ship-car-to-manama,Ship Car to Manama,Medium,
+Country,Asia,Kuwait,,/ship-car-to-kuwait,Ship Car to Kuwait,Medium,Oil wealth
+City,Asia,Kuwait,Kuwait City,/ship-car-to-kuwait-city,Ship Car to Kuwait City,Medium,
+Country,Asia,Oman,,/ship-car-to-oman,Ship Car to Oman,Low,
+City,Asia,Oman,Muscat,/ship-car-to-muscat,Ship Car to Muscat,Low,
+Country,Asia,Israel,,/ship-car-to-israel,Ship Car to Israel,Medium,Tech wealth hub
+City,Asia,Israel,Tel Aviv,/ship-car-to-tel-aviv,Ship Car to Tel Aviv,Medium,Startup nation capital
+City,Asia,Israel,Jerusalem,/ship-car-to-jerusalem,Ship Car to Jerusalem,Low,
+Country,Asia,Jordan,,/ship-car-to-jordan,Ship Car to Jordan,Low,
+City,Asia,Jordan,Amman,/ship-car-to-amman,Ship Car to Amman,Low,
+Country,Asia,Lebanon,,/ship-car-to-lebanon,Ship Car to Lebanon,Low,
+City,Asia,Lebanon,Beirut,/ship-car-to-beirut,Ship Car to Beirut,Low,
+Country,Asia,Japan,,/ship-car-to-japan,Ship Car to Japan,High,"JDM culture, major luxury market"
+City,Asia,Japan,Tokyo,/ship-car-to-tokyo,Ship Car to Tokyo,High,
+City,Asia,Japan,Osaka,/ship-car-to-osaka,Ship Car to Osaka,Medium,
+City,Asia,Japan,Yokohama,/ship-car-to-yokohama,Ship Car to Yokohama,Low,
+City,Asia,Japan,Nagoya,/ship-car-to-nagoya,Ship Car to Nagoya,Low,Toyota HQ region
+City,Asia,Japan,Kyoto,/ship-car-to-kyoto,Ship Car to Kyoto,Low,
+Country,Asia,South Korea,,/ship-car-to-south-korea,Ship Car to South Korea,Medium,
+City,Asia,South Korea,Seoul,/ship-car-to-seoul,Ship Car to Seoul,High,K-luxury boom
+City,Asia,South Korea,Busan,/ship-car-to-busan,Ship Car to Busan,Low,
+Country,Asia,China,,/ship-car-to-china,Ship Car to China,High,Largest luxury car market by volume
+City,Asia,China,Shanghai,/ship-car-to-shanghai,Ship Car to Shanghai,High,Financial capital
+City,Asia,China,Beijing,/ship-car-to-beijing,Ship Car to Beijing,High,
+City,Asia,China,Shenzhen,/ship-car-to-shenzhen,Ship Car to Shenzhen,Medium,Tech hub
+City,Asia,China,Guangzhou,/ship-car-to-guangzhou,Ship Car to Guangzhou,Medium,
+City,Asia,China,Chengdu,/ship-car-to-chengdu,Ship Car to Chengdu,Low,
+City,Asia,China,Hangzhou,/ship-car-to-hangzhou,Ship Car to Hangzhou,Low,Alibaba HQ
+Country,Asia,Hong Kong,,/ship-car-to-hong-kong,Ship Car to Hong Kong,High,Major luxury car market
+Country,Asia,Singapore,,/ship-car-to-singapore,Ship Car to Singapore,High,"Ultra-wealthy city-state, COE system"
+Country,Asia,Taiwan,,/ship-car-to-taiwan,Ship Car to Taiwan,Low,
+City,Asia,Taiwan,Taipei,/ship-car-to-taipei,Ship Car to Taipei,Low,
+Country,Asia,Malaysia,,/ship-car-to-malaysia,Ship Car to Malaysia,Medium,
+City,Asia,Malaysia,Kuala Lumpur,/ship-car-to-kuala-lumpur,Ship Car to Kuala Lumpur,Medium,
+Country,Asia,Thailand,,/ship-car-to-thailand,Ship Car to Thailand,Medium,
+City,Asia,Thailand,Bangkok,/ship-car-to-bangkok,Ship Car to Bangkok,Medium,Major supercar scene
+City,Asia,Thailand,Phuket,/ship-car-to-phuket,Ship Car to Phuket,Low,
+Country,Asia,Indonesia,,/ship-car-to-indonesia,Ship Car to Indonesia,Medium,
+City,Asia,Indonesia,Jakarta,/ship-car-to-jakarta,Ship Car to Jakarta,Medium,
+City,Asia,Indonesia,Bali,/ship-car-to-bali,Ship Car to Bali,Medium,Luxury tourism
+Country,Asia,Philippines,,/ship-car-to-philippines,Ship Car to Philippines,Low,
+City,Asia,Philippines,Manila,/ship-car-to-manila,Ship Car to Manila,Low,
+Country,Asia,India,,/ship-car-to-india,Ship Car to India,Medium,Growing supercar market
+City,Asia,India,Mumbai,/ship-car-to-mumbai,Ship Car to Mumbai,High,"Bollywood, financial capital"
+City,Asia,India,Delhi,/ship-car-to-delhi,Ship Car to Delhi,Medium,
+City,Asia,India,Bangalore,/ship-car-to-bangalore,Ship Car to Bangalore,Medium,Tech capital
+City,Asia,India,Hyderabad,/ship-car-to-hyderabad,Ship Car to Hyderabad,Low,
+City,Asia,India,Chennai,/ship-car-to-chennai,Ship Car to Chennai,Low,
+City,Asia,India,Kolkata,/ship-car-to-kolkata,Ship Car to Kolkata,Low,
+Country,Asia,Vietnam,,/ship-car-to-vietnam,Ship Car to Vietnam,Low,
+City,Asia,Vietnam,Ho Chi Minh City,/ship-car-to-ho-chi-minh-city,Ship Car to Ho Chi Minh City,Low,
+City,Asia,Vietnam,Hanoi,/ship-car-to-hanoi,Ship Car to Hanoi,Low,
+Continent,Oceania,,,/ship-car-to-oceania,Ship Car to Oceania,Medium,Hub page
+Country,Oceania,Australia,,/ship-car-to-australia,Ship Car to Australia,High,Major supercar market
+City,Oceania,Australia,Sydney,/ship-car-to-sydney,Ship Car to Sydney,High,Largest market
+City,Oceania,Australia,Melbourne,/ship-car-to-melbourne,Ship Car to Melbourne,High,F1 Grand Prix host
+City,Oceania,Australia,Brisbane,/ship-car-to-brisbane,Ship Car to Brisbane,Medium,
+City,Oceania,Australia,Perth,/ship-car-to-perth,Ship Car to Perth,Medium,Mining wealth
+City,Oceania,Australia,Adelaide,/ship-car-to-adelaide,Ship Car to Adelaide,Low,
+City,Oceania,Australia,Gold Coast,/ship-car-to-gold-coast,Ship Car to Gold Coast,Medium,Luxury resort market
+Country,Oceania,New Zealand,,/ship-car-to-new-zealand,Ship Car to New Zealand,Medium,
+City,Oceania,New Zealand,Auckland,/ship-car-to-auckland,Ship Car to Auckland,Medium,
+City,Oceania,New Zealand,Wellington,/ship-car-to-wellington,Ship Car to Wellington,Low,
+City,Oceania,New Zealand,Christchurch,/ship-car-to-christchurch,Ship Car to Christchurch,Low,
+Country,Oceania,Fiji,,/ship-car-to-fiji,Ship Car to Fiji,Low,Luxury island destination
