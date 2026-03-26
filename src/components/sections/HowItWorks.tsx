@@ -27,7 +27,7 @@ export default function HowItWorks() {
     <section className="py-20 bg-surface">
       <Container>
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+          <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
             How It Works
           </h2>
           <div className="text-gold mx-auto w-48">
@@ -44,7 +44,7 @@ export default function HowItWorks() {
               <div className="text-5xl font-display font-bold text-gold/20 group-hover:text-gold/40 transition-colors mb-4">
                 {step.number}
               </div>
-              <h3 className="text-xl font-display text-white mb-3">
+              <h3 className="text-xl font-display text-text-heading mb-3">
                 {step.title}
               </h3>
               <p className="text-text-secondary text-sm leading-relaxed">

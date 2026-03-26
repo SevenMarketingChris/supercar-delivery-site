@@ -70,21 +70,21 @@ export default function QuickQuoteForm({
           name="name"
           placeholder="Your Name"
           required
-          className="flex-1 bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="flex-1 bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="email"
           name="email"
           placeholder="Email"
           required
-          className="flex-1 bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="flex-1 bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="tel"
           name="phone"
           placeholder="Phone"
           required
-          className="flex-1 bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="flex-1 bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <Button type="submit" disabled={loading} className="whitespace-nowrap">
           {loading ? "..." : "Get Quote"}

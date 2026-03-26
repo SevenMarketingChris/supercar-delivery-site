@@ -40,8 +40,8 @@ export function loadUKDomesticLocations(): UKDomesticLocation[] {
     .map((row) => ({
       pageType: row["Page Type"] as UKDomesticLocation["pageType"],
       region: row["Region"] || "",
-      countyOrArea: row["Country"] || row["County/Area"] || "",
-      city: row["City/County"] || row["City"] || "",
+      countyOrArea: row["County/Area"] || "",
+      city: row["City"] || "",
       urlSlug: row["URL Slug"],
       h1: row["Page Title (H1)"],
       priority: row["Priority"] as UKDomesticLocation["priority"],

@@ -6,6 +6,7 @@ import Container from "@/components/ui/Container";
 import Button from "@/components/ui/Button";
 import LogoMark from "@/components/svg/LogoMark";
 import { MenuIcon, CloseIcon } from "@/components/svg/icons";
+import ThemeToggle from "@/components/svg/ThemeToggle";
 
 const navLinks = [
   { label: "Europe", href: "/ship-car-to-europe" },
@@ -27,7 +28,7 @@ export default function Header() {
           </Link>
 
           {/* Desktop nav */}
-          <nav className="hidden md:flex items-center gap-8">
+          <nav className="hidden md:flex items-center gap-8" aria-label="Main navigation">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -37,27 +38,32 @@ export default function Header() {
                 {link.label}
               </Link>
             ))}
+            <ThemeToggle />
             <Link href="#quote">
               <Button size="sm">Get Quote</Button>
             </Link>
           </nav>
 
-          {/* Mobile menu button */}
-          <button
-            onClick={() => setMobileOpen(!mobileOpen)}
-            className="md:hidden text-white cursor-pointer"
-            aria-label="Toggle menu"
-          >
-            {mobileOpen ? <CloseIcon /> : <MenuIcon />}
-          </button>
+          {/* Mobile controls */}
+          <div className="flex md:hidden items-center gap-3">
+            <ThemeToggle />
+            <button
+              onClick={() => setMobileOpen(!mobileOpen)}
+              className="text-text-heading cursor-pointer"
+              aria-label="Toggle menu"
+              aria-expanded={mobileOpen}
+            >
+              {mobileOpen ? <CloseIcon /> : <MenuIcon />}
+            </button>
+          </div>
         </div>
       </Container>
 
       {/* Mobile menu */}
       {mobileOpen && (
-        <div className="md:hidden bg-surface-secondary border-t border-border-subtle">
+        <nav className="md:hidden bg-surface-secondary border-t border-border-subtle" aria-label="Mobile navigation">
           <Container>
-            <nav className="py-4 space-y-3">
+            <div className="py-4 space-y-3">
               {navLinks.map((link) => (
                 <Link
                   key={link.href}
@@ -73,9 +79,9 @@ export default function Header() {
                   Get Quote
                 </Button>
               </Link>
-            </nav>
+            </div>
           </Container>
-        </div>
+        </nav>
       )}
     </header>
   );

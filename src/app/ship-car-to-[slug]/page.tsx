@@ -63,7 +63,7 @@ export default async function ShipCarToPage({
   );
 
   if (!location) {
-    return <div className="pt-32 text-center text-white">Page not found</div>;
+    return <div className="pt-32 text-center text-text-heading">Page not found</div>;
   }
 
   const destination = getDestinationName(location.h1);
@@ -178,7 +178,7 @@ export default async function ShipCarToPage({
               ))}
 
               <div className="mt-8 bg-surface-card border border-border-subtle rounded-lg p-6">
-                <h2 className="text-xl font-display text-white mb-4">
+                <h2 className="text-xl font-display text-text-heading mb-4">
                   Why Choose Us for {destination}
                 </h2>
                 <ul className="space-y-3">

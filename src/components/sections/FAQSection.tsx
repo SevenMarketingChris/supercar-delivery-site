@@ -13,7 +13,7 @@ export default function FAQSection({ destination, faqs }: FAQSectionProps) {
       <Container>
         <div className="max-w-3xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
               Frequently Asked Questions
             </h2>
             <div className="text-gold mx-auto w-48">

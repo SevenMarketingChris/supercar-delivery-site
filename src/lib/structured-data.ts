@@ -1,3 +1,5 @@
+const BASE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://supercardelivery.com";
+
 export function generateFAQSchema(
   faqs: Array<{ question: string; answer: string }>
 ) {
@@ -21,15 +23,17 @@ export function generateServiceSchema(destination: string, slug: string) {
     "@type": "Service",
     name: `Supercar Delivery to ${destination}`,
     description: `Professional enclosed vehicle transport service for supercars and high-value vehicles to ${destination}. Fully insured, door-to-door delivery.`,
+    serviceType: "Vehicle Transport",
     provider: {
       "@type": "Organization",
       name: "Supercar Delivery",
+      url: BASE_URL,
     },
     areaServed: {
       "@type": "Place",
       name: destination,
     },
-    url: slug,
+    url: `${BASE_URL}${slug}`,
   };
 }
 
@@ -43,7 +47,7 @@ export function generateBreadcrumbSchema(
       "@type": "ListItem",
       position: index + 1,
       name: crumb.label,
-      item: crumb.href,
+      item: `${BASE_URL}${crumb.href}`,
     })),
   };
 }

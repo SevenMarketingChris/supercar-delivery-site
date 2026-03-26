@@ -83,7 +83,7 @@ export default function HomePage() {
             <p className="text-gold text-sm uppercase tracking-[0.3em] font-semibold mb-4">
               Worldwide Enclosed Transport
             </p>
-            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-display font-bold tracking-tight text-white leading-[1.1] mb-6">
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-display font-bold tracking-tight text-text-heading leading-[1.1] mb-6">
               Supercar Delivery{" "}
               <span className="gold-text">Worldwide</span>
             </h1>
@@ -102,7 +102,7 @@ export default function HomePage() {
       <section className="py-20">
         <Container>
           <div className="text-center mb-12">
-            <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
               Popular Destinations
             </h2>
             <div className="text-gold mx-auto w-48">
@@ -122,7 +122,7 @@ export default function HomePage() {
               >
                 <MapPinIcon className="text-gold shrink-0" size={20} />
                 <div className="flex-1">
-                  <div className="text-white font-semibold text-sm group-hover:text-gold transition-colors">
+                  <div className="text-text-heading font-semibold text-sm group-hover:text-gold transition-colors">
                     {dest.name}
                   </div>
                   <div className="text-xs text-text-secondary">{dest.country}</div>
@@ -143,7 +143,7 @@ export default function HomePage() {
       <section className="py-20">
         <Container>
           <div className="text-center mb-12">
-            <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
               Ship by Region
             </h2>
             <div className="text-gold mx-auto w-48">
@@ -158,7 +158,7 @@ export default function HomePage() {
                 href={c.slug}
                 className="group bg-surface-card border border-border-subtle rounded-lg p-6 hover:border-gold/30 transition-all"
               >
-                <h3 className="text-xl font-display text-white group-hover:text-gold transition-colors mb-2">
+                <h3 className="text-xl font-display text-text-heading group-hover:text-gold transition-colors mb-2">
                   {c.name}
                 </h3>
                 <p className="text-sm text-text-secondary mb-3">{c.desc}</p>
@@ -177,7 +177,7 @@ export default function HomePage() {
       <section className="py-20">
         <Container>
           <div className="text-center mb-12">
-            <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+            <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
               UK Supercar Delivery
             </h2>
             <div className="text-gold mx-auto w-48">
@@ -218,7 +218,7 @@ export default function HomePage() {
         <Container>
           <div className="max-w-xl mx-auto">
             <div className="text-center mb-8">
-              <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+              <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
                 Get Your Free Quote
               </h2>
               <p className="text-text-secondary">

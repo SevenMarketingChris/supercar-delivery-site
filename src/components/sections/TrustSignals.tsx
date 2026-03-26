@@ -17,7 +17,7 @@ export default function TrustSignals() {
             <div key={signal.label} className="flex items-center gap-3">
               <signal.icon className="text-gold shrink-0" size={36} />
               <div>
-                <div className="text-sm font-semibold text-white">{signal.label}</div>
+                <div className="text-sm font-semibold text-text-heading">{signal.label}</div>
                 <div className="text-xs text-text-secondary">{signal.desc}</div>
               </div>
             </div>

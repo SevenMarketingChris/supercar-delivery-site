@@ -21,7 +21,7 @@ export default function VehicleTypes() {
     <section className="py-20 bg-surface-secondary">
       <Container>
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+          <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
             Vehicles We Transport
           </h2>
           <div className="text-gold mx-auto w-48">

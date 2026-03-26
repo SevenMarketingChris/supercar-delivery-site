@@ -23,7 +23,7 @@ export default function HeroSection({ h1, subtitle, sourcePageSlug }: HeroSectio
 
       <Container className="relative z-10">
         <div className="max-w-3xl">
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold tracking-tight text-white leading-tight mb-6">
+          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-display font-bold tracking-tight text-text-heading leading-tight mb-6">
             {h1}
           </h1>
           <p className="text-lg sm:text-xl text-text-secondary leading-relaxed mb-8 max-w-2xl">

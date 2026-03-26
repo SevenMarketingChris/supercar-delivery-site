@@ -22,7 +22,7 @@ export default function Button({
         variant === "primary" &&
           "bg-gradient-to-r from-gold-dark via-gold to-gold-light text-surface hover:brightness-110 hover:shadow-lg hover:shadow-gold/20",
         variant === "secondary" &&
-          "bg-surface-elevated text-white border border-border-subtle hover:border-gold/50 hover:text-gold",
+          "bg-surface-elevated text-text-heading border border-border-subtle hover:border-gold/50 hover:text-gold",
         variant === "outline" &&
           "bg-transparent text-gold border border-gold/50 hover:bg-gold/10",
         size === "sm" && "px-4 py-2 text-xs rounded",

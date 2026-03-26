@@ -15,7 +15,7 @@ export default function LocationGrid({ title, locations }: LocationGridProps) {
     <section className="py-20 bg-surface-secondary">
       <Container>
         <div className="text-center mb-12">
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+          <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
             {title}
           </h2>
           <div className="text-gold mx-auto w-48">
@@ -31,7 +31,7 @@ export default function LocationGrid({ title, locations }: LocationGridProps) {
               className="group flex items-center gap-3 bg-surface-card border border-border-subtle rounded-md p-4 hover:border-gold/30 transition-all hover:bg-surface-elevated"
             >
               <MapPinIcon className="text-gold shrink-0" size={18} />
-              <span className="text-sm text-text-secondary group-hover:text-white transition-colors flex-1">
+              <span className="text-sm text-text-secondary group-hover:text-text-heading transition-colors flex-1">
                 {getDestinationName(loc.h1)}
               </span>
               <ArrowRightIcon

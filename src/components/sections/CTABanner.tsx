@@ -14,7 +14,7 @@ export default function CTABanner({ destination }: CTABannerProps) {
 
       <Container>
         <div className="text-center max-w-2xl mx-auto">
-          <h2 className="text-3xl sm:text-4xl font-display font-bold text-white mb-4">
+          <h2 className="text-3xl sm:text-4xl font-display font-bold text-text-heading mb-4">
             Ready to Ship Your Supercar{destination ? ` to ${destination}` : ""}?
           </h2>
           <p className="text-text-secondary text-lg mb-8">

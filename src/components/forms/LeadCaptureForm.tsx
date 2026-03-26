@@ -63,9 +63,9 @@ export default function LeadCaptureForm({
 
   if (submitted) {
     return (
-      <div className="bg-surface-card border border-gold/30 rounded-lg p-8 text-center">
+      <div className="bg-surface-card border border-gold/30 rounded-lg p-8 text-center" role="alert">
         <div className="text-gold text-4xl mb-4">&#10003;</div>
-        <h3 className="text-xl font-display text-white mb-2">Quote Request Received</h3>
+        <h3 className="text-xl font-display text-text-heading mb-2">Quote Request Received</h3>
         <p className="text-text-secondary">
           Thank you. We&apos;ll be in touch within 2 hours with your personalised quote.
         </p>
@@ -79,7 +79,7 @@ export default function LeadCaptureForm({
       className="bg-surface-card border border-border-subtle rounded-lg p-6 md:p-8"
       id="quote"
     >
-      <h3 className="text-xl font-display text-white mb-1">
+      <h3 className="text-xl font-display text-text-heading mb-1">
         Get Your Free Quote
       </h3>
       <p className="text-sm text-text-secondary mb-6">
@@ -92,28 +92,28 @@ export default function LeadCaptureForm({
           name="name"
           placeholder="Full Name *"
           required
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="email"
           name="email"
           placeholder="Email Address *"
           required
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="tel"
           name="phone"
           placeholder="Phone Number *"
           required
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="text"
           name="pickupLocation"
           placeholder="Pickup Location *"
           required
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="text"
@@ -121,20 +121,20 @@ export default function LeadCaptureForm({
           placeholder="Delivery Location *"
           required
           defaultValue={deliveryLocation}
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <input
           type="text"
           name="carMakeModel"
           placeholder="Car Make & Model *"
           required
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors"
         />
         <textarea
           name="message"
           placeholder="Additional Notes (optional)"
           rows={3}
-          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-white placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors resize-none"
+          className="w-full bg-surface-elevated border border-border-subtle rounded-md px-4 py-3 text-text-primary placeholder:text-text-secondary/60 focus:outline-none focus:border-gold/50 transition-colors resize-none"
         />
 
         {/* Honeypot */}

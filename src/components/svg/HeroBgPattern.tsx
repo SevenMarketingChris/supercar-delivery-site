@@ -6,9 +6,8 @@ export default function HeroBgPattern({ className = "" }: { className?: string }
       xmlns="http://www.w3.org/2000/svg"
       className={className}
       preserveAspectRatio="xMidYMid slice"
+      aria-hidden="true"
     >
-      {/* Abstract geometric pattern with gold accent lines */}
-      {/* Diagonal lines */}
       {Array.from({ length: 20 }, (_, i) => (
         <line
           key={`d1-${i}`}
@@ -16,7 +15,7 @@ export default function HeroBgPattern({ className = "" }: { className?: string }
           y1={0}
           x2={i * 120}
           y2={800}
-          stroke="#c9a84c"
+          stroke="currentColor"
           strokeWidth="0.5"
           opacity={0.03 + (i % 5 === 0 ? 0.04 : 0)}
         />
@@ -28,16 +27,14 @@ export default function HeroBgPattern({ className = "" }: { className?: string }
           y1={0}
           x2={i * 120}
           y2={800}
-          stroke="#c9a84c"
+          stroke="currentColor"
           strokeWidth="0.5"
           opacity={0.03 + (i % 4 === 0 ? 0.03 : 0)}
         />
       ))}
-      {/* Accent circles */}
-      <circle cx="900" cy="200" r="150" stroke="#c9a84c" strokeWidth="0.5" opacity="0.05" />
-      <circle cx="900" cy="200" r="200" stroke="#c9a84c" strokeWidth="0.5" opacity="0.03" />
-      <circle cx="300" cy="600" r="100" stroke="#c9a84c" strokeWidth="0.5" opacity="0.04" />
-      {/* Dot grid */}
+      <circle cx="900" cy="200" r="150" stroke="currentColor" strokeWidth="0.5" opacity="0.05" />
+      <circle cx="900" cy="200" r="200" stroke="currentColor" strokeWidth="0.5" opacity="0.03" />
+      <circle cx="300" cy="600" r="100" stroke="currentColor" strokeWidth="0.5" opacity="0.04" />
       {Array.from({ length: 8 }, (_, row) =>
         Array.from({ length: 12 }, (_, col) => (
           <circle
@@ -45,7 +42,7 @@ export default function HeroBgPattern({ className = "" }: { className?: string }
             cx={50 + col * 100}
             cy={50 + row * 100}
             r="1"
-            fill="#c9a84c"
+            fill="currentColor"
             opacity={0.08}
           />
         ))
